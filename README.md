@@ -1,1 +1,1 @@
-# az-terminals
+# az-vm
